@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CarterRock49
+- 👋 Hi, I’m CarterRock49
 - 👀 I’m interested in ... Programming, and Github
 - 🌱 I’m currently learning ... C++
-- 📫 How to reach me ... carterrock@gmail.com
+- 📫 How to reach me ... carterrock49@gmail.com
 
 <!---
 CarterRock49/CarterRock49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
