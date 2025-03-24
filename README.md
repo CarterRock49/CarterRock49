@@ -1,4 +1,3 @@
-# Carter Rock
 ### Software Engineer
 
 ## 📱 Contact
