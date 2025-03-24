@@ -9,8 +9,9 @@
 
 ## 💻 Languages and Tools 💻
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,cpp,cs,html,css,react,nodejs,express,flutter,pytorch,tensorflow,mongodb,mysql,firebase,git,docker,azure,arduino,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,cpp,cs,html,css,react,nodejs,express,flutter,pytorch,tensorflow,mongodb)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,docker,azure,arduino,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
 ## 🎓 Education 🎓
 
 **Wayne State University** - Detroit, MI  
