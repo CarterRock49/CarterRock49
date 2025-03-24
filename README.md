@@ -57,7 +57,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&card_width=420&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
@@ -71,7 +71,7 @@
   </picture>
 </div>
 
-<div align="center">
+<div align="left">
   <picture>
     <source 
       srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1"
