@@ -22,53 +22,17 @@
 
 ## 🚀 Featured Projects 🚀
 
-### MTG AI - Reinforcement Learning Agent
+<div align="center">
 
-Developed a reinforcement learning agent using PPO to play Magic: The Gathering
+| MTG AI | BirdNestIQ | All-In-One Tool | Macro Machine |
+|:--|:--|:--|:--|
+| **Reinforcement Learning Agent** | **Bird Species Identification** | **Event Management App** | **Macro Creation System** |
+| 🧠 PPO-based AI for Magic: The Gathering | 🐦 Computer Vision Mobile App | 📅 Interactive Calendar Web App | ⌨️ Advanced Macro Automation |
+| Custom LSTM neural networks | Low-latency ML models | CRUD with MongoDB/Express | Trigger-based macro modes |
+| **Tech:** Python, PyTorch, Stable Baselines | **Tech:** Dart, Flutter, YOLO | **Tech:** React, Node.js, MongoDB | **Tech:** C#, .NET Windows Forms |
+| [🔗 GitHub Repo](https://github.com/CarterRock49/MTG-AI-Project) | *Private Repo* | *Private Repo* | [🔗 GitHub Repo](https://github.com/CarterRock49/C_Sharp_Macro_Project) |
 
-Implemented custom neural networks with LSTM layers for processing complex game states
-
-Used Optuna for hyperparameter optimization to improve model performance
-
-**Technologies:** Python, PyTorch, Stable Baselines 3, Gymnasium, Reinforcement Learning
-
-[GitHub Repository](https://github.com/CarterRock49/MTG-AI-Project)
-
-### BirdNestIQ - Bird Species Identification App
-
-Mobile app that identifies bird species from images/videos using computer vision
-
-Optimized machine learning models for mobile devices with low latency
-
-Implemented efficient data storage and retrieval with Firebase
-
-**Technologies:** Dart, Flutter, Firebase, Node.js, Python, YOLO, TensorFlow Lite
-
-*Private Repository*
-
-### All-In-One-Management-Tool
-Full-stack web application for managing events and schedules via interactive calendar
-
-Implemented CRUD operations with MongoDB and Express.js
-
-Enhanced user experience with responsive React components
-
-**Technologies:** MongoDB, Express.js, React, Node.js, JavaScript, HTML/CSS
-
-*Private Repository*
-
-### Macro Machine
-Advanced macro creation system with trigger-based and repeated press modes
-
-Custom UI with dynamic keyboard layout
-
-Persistent macro state management
-
-Real-time macro toggling and configuration
-
-**Technologies:** C#, .NET Windows Forms, Newtonsoft.Json
-
-[GitHub Repository](https://github.com/CarterRock49/C_Sharp_Macro_Project)
+</div>
   
 ## 🛠️ Skills 🛠️
 
