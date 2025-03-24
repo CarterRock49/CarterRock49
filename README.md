@@ -46,6 +46,4 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical)
