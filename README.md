@@ -29,12 +29,14 @@
 - Optimized machine learning models for mobile devices with low latency
 - Implemented efficient data storage and retrieval with Firebase
 - **Technologies:** Dart, Flutter, Firebase, Node.js, Python, YOLO, TensorFlow Lite
+- Private Repo
 
 ### All-In-One-Management-Tool
 - Full-stack web application for managing events and schedules via interactive calendar
 - Implemented CRUD operations with MongoDB and Express.js
 - Enhanced user experience with responsive React components
 - **Technologies:** MongoDB, Express.js, React, Node.js, JavaScript, HTML/CSS
+- Private Repo
 
 ### Macro Machine
 - Advanced macro creation system with trigger-based and repeated press modes
