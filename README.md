@@ -71,10 +71,15 @@ Real-time macro toggling and configuration
 ## 🛠️ Skills 🛠️
 
 **Languages:** Java, Python, C#, C/C++, JavaScript, Dart, SQL, PHP, HTML/CSS
-**Frameworks/Libraries:** React.js, Node.js, Express.js, Flutter, Stable Baselines 3, PyTorch, TensorFlow Lite, Gymnasium, Optuna, Pandas, NumPy, Matplotlib
+
+**Frameworks/Libraries:** React.js, Node.js, Express.js, Flutter, Stable Baselines 3, PyTorch, TensorFlow Lite, Gymnasium, Optuna
+
 **Databases:** MySQL, MongoDB, Firebase, Microsoft SQL Server
+
 **Tools:** Git, Docker, VS Code, Visual Studio, Eclipse, Postman, VirtualBox
+
 **Cloud/OS/Servers:** Microsoft Azure, Debian, Apache
+
 **Other:** Reinforcement Learning, Neural Networks, Machine Learning (YOLO), JSON Schema, XML (XSD) Schema, RESTful APIs, Arduino, Raspberry Pi
 
 ## 📈 GitHub Stats 📈
