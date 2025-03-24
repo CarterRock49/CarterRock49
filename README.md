@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carterrock49/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carterrock49@gmail.com)
 
-## 💻 Tech Stack
+## 💻 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,cpp,cs,html,css,react,nodejs,express,flutter,pytorch,tensorflow,mongodb,mysql,firebase,git,docker,azure,arduino,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
 
