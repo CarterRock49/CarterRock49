@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=500&size=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
 ## 📱 Contact
@@ -57,6 +56,19 @@
 - **Other:** Reinforcement Learning, Neural Networks, Machine Learning (YOLO), JSON Schema, XML (XSD) Schema, RESTful APIs, Arduino, Raspberry Pi
 
 ## 📈 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&card_width=420&include_all_commits=true&count_private=true&hide=contribs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=default&hide_border=true&card_width=420&include_all_commits=true&count_private=true&hide=contribs"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&card_width=420" alt="GitHub Stats" />
+  </picture>
 
 <div align="center">
   <picture>
