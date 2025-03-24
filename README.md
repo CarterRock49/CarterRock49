@@ -22,6 +22,7 @@
 - Implemented custom neural networks with LSTM layers for processing complex game states
 - Used Optuna for hyperparameter optimization to improve model performance
 - **Technologies:** Python, PyTorch, Stable Baselines 3, Gymnasium, Reinforcement Learning
+- Link: https://github.com/CarterRock49/MTG-AI-Project
 
 ### BirdNestIQ - Bird Species Identification App
 - Mobile app that identifies bird species from images/videos using computer vision
@@ -34,6 +35,16 @@
 - Implemented CRUD operations with MongoDB and Express.js
 - Enhanced user experience with responsive React components
 - **Technologies:** MongoDB, Express.js, React, Node.js, JavaScript, HTML/CSS
+
+### Macro Machine
+- Advanced macro creation system with trigger-based and repeated press modes
+- Custom UI with dynamic keyboard layout
+- Persistent macro state management
+- Real-time macro toggling and configuration
+
+**Technologies:** C#, .NET Windows Forms, Newtonsoft.Json
+
+[View Project on GitHub](https://github.com/yourusername/MacroMachine)
 
 ## 🛠️ Skills
 
