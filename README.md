@@ -46,17 +46,26 @@ Implemented efficient data storage and retrieval with Firebase
 
 ### All-In-One-Management-Tool
 Full-stack web application for managing events and schedules via interactive calendar
+
 Implemented CRUD operations with MongoDB and Express.js
+
 Enhanced user experience with responsive React components
+
 **Technologies:** MongoDB, Express.js, React, Node.js, JavaScript, HTML/CSS
+
 *Private Repository*
 
 ### Macro Machine
 Advanced macro creation system with trigger-based and repeated press modes
+
 Custom UI with dynamic keyboard layout
+
 Persistent macro state management
+
 Real-time macro toggling and configuration
+
 **Technologies:** C#, .NET Windows Forms, Newtonsoft.Json
+
 [GitHub Repository](https://github.com/CarterRock49/C_Sharp_Macro_Project)
   
 ## 🛠️ Skills 🛠️
