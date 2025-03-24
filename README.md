@@ -88,26 +88,26 @@ Real-time macro toggling and configuration
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&card_width=420&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&card_width=420&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=default&hide_border=true&card_width=420&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&card_width=420&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
     media="(prefers-color-scheme: light)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&card_width=420" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&card_width=420" alt="Top Languages" />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1"
+    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=transparent&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&row=1"
+    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=transparent&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=1"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=transparent&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
 </picture>
 
 </div>
