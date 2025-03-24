@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Software%20Engineer&fontAlign=70&rotate=13&fontSize=40&desc=Carter%20Rock&descAlign=70&descAlignY=40" alt="Profile Header"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Carter+Rock;Software+Engineer;Computer+Science+Student" alt="Typing SVG" /></a>
 </div>
 
 ## 📱 Contact 📱
