@@ -45,9 +45,7 @@
 - Real-time macro toggling and configuration
 **Technologies:** C#, .NET Windows Forms, Newtonsoft.Json
 - Link: https://github.com/CarterRock49/C_Sharp_Macro_Project
-
-[View Project on GitHub](https://github.com/yourusername/MacroMachine)
-
+  
 ## 🛠️ Skills
 
 - **Languages:** Java, Python, C#, C/C++, JavaScript, Dart, SQL, PHP, HTML/CSS
