@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Carter%20Rock&fontSize=90&animation=fadeIn" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Software%20Engineer&fontAlign=70&rotate=13&fontSize=40&desc=Carter%20Rock&descAlign=70&descAlignY=40" alt="Profile Header"/>
 </div>
 
 ## 📱 Contact 📱
