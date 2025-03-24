@@ -1,6 +1,10 @@
 <div align="center">
-  
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=500&size=30&lines=Software+Engineer)](https://git.io/typing-svg)
+
+</div>
 
 ## 📱 Contact 📱
 
