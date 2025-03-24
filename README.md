@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
 ## 📱 Contact
 
@@ -58,10 +57,20 @@
 
 ## 📈 GitHub Stats
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=435&lines=Software+Engineer+%7C+Machine+Learning+%7C+Web+Dev)](https://git.io/typing-svg)
-
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">
     <img alt="Carter's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/api?username=CarterRock49&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octo&theme=radical&preferLogin=false">
+    <img alt="Carter's Language Stats" src="https://awesome-github-stats.azurewebsites.net/api/top-langs/?username=CarterRock49&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="Carter's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=radical&hide_border=true" />
   </a>
 </div>
