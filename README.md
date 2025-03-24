@@ -57,21 +57,10 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/CarterRock49">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/CarterRock49">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7430D&width=435&lines=Software+Engineer+%7C+Machine+Learning+%7C+Web+Dev)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/CarterRock49">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">
+    <img alt="Carter's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/api?username=CarterRock49&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1" alt="GitHub Trophies" />
 </div>
