@@ -57,40 +57,56 @@
 
 ## 📈 GitHub Stats
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&ring_color=f5426d&number_format=long"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=default&hide_border=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&ring_color=f5426d&number_format=long"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</picture>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&card_width=420&hide=contribs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=default&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&card_width=420&hide=contribs"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical&hide_border=true&card_width=420" alt="GitHub Stats" />
+  </picture>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=donut&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=donut&theme=default&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
-</picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420&size_weight=0.5&count_weight=0.5&hide=html,css"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=420&size_weight=0.5&count_weight=0.5&hide=html,css"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical&hide_border=true&card_width=420" alt="Top Languages" />
+  </picture>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=radical&hide_border=true&card_width=420"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=default&hide_border=true&card_width=420"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarterRock49&theme=radical&hide_border=true&card_width=420" alt="GitHub Streak" />
+  </picture>
+</div>
 
-<picture>
-  <source 
-    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</picture>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&row=1"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=CarterRock49&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&row=1" alt="GitHub Trophies" />
+  </picture>
+</div>
