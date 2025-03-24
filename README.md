@@ -21,17 +21,27 @@
 ## 🚀 Featured Projects 🚀
 
 ### MTG AI - Reinforcement Learning Agent
+
 Developed a reinforcement learning agent using PPO to play Magic: The Gathering
+
 Implemented custom neural networks with LSTM layers for processing complex game states
+
 Used Optuna for hyperparameter optimization to improve model performance
+
 **Technologies:** Python, PyTorch, Stable Baselines 3, Gymnasium, Reinforcement Learning
+
 [GitHub Repository](https://github.com/CarterRock49/MTG-AI-Project)
 
 ### BirdNestIQ - Bird Species Identification App
+
 Mobile app that identifies bird species from images/videos using computer vision
+
 Optimized machine learning models for mobile devices with low latency
+
 Implemented efficient data storage and retrieval with Firebase
+
 **Technologies:** Dart, Flutter, Firebase, Node.js, Python, YOLO, TensorFlow Lite
+
 *Private Repository*
 
 ### All-In-One-Management-Tool
