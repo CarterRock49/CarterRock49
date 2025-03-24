@@ -1,6 +1,52 @@
-- 📫 How to reach me ... carterrock49@gmail.com
+# Carter Rock
+### Software Engineer
 
-<!---
-CarterRock49/CarterRock49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📱 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carterrock49/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carterrock49@gmail.com)
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,cpp,cs,html,css,react,nodejs,express,flutter,pytorch,tensorflow,mongodb,mysql,firebase,git,docker,azure,arduino,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
+
+## 🎓 Education
+
+**Wayne State University** - Detroit, MI  
+*Bachelor of Science in Computer Science*  
+*August 2020 - December 2024*
+
+## 🚀 Featured Projects
+
+### MTG AI - Reinforcement Learning Agent
+- Developed a reinforcement learning agent using PPO to play Magic: The Gathering
+- Implemented custom neural networks with LSTM layers for processing complex game states
+- Used Optuna for hyperparameter optimization to improve model performance
+- **Technologies:** Python, PyTorch, Stable Baselines 3, Gymnasium, Reinforcement Learning
+
+### BirdNestIQ - Bird Species Identification App
+- Mobile app that identifies bird species from images/videos using computer vision
+- Optimized machine learning models for mobile devices with low latency
+- Implemented efficient data storage and retrieval with Firebase
+- **Technologies:** Dart, Flutter, Firebase, Node.js, Python, YOLO, TensorFlow Lite
+
+### All-In-One-Management-Tool
+- Full-stack web application for managing events and schedules via interactive calendar
+- Implemented CRUD operations with MongoDB and Express.js
+- Enhanced user experience with responsive React components
+- **Technologies:** MongoDB, Express.js, React, Node.js, JavaScript, HTML/CSS
+
+## 🛠️ Skills
+
+- **Languages:** Java, Python, C#, C/C++, JavaScript, Dart, SQL, PHP, HTML/CSS
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, Flutter, Stable Baselines 3, PyTorch, TensorFlow Lite, Gymnasium, Optuna, Pandas, NumPy, Matplotlib
+- **Databases:** MySQL, MongoDB, Firebase, Microsoft SQL Server
+- **Tools:** Git, Docker, VS Code, Visual Studio, Eclipse, Postman, VirtualBox
+- **Cloud/OS/Servers:** Microsoft Azure, Debian, Apache
+- **Other:** Reinforcement Learning, Neural Networks, Machine Learning (YOLO), JSON Schema, XML (XSD) Schema, RESTful APIs, Arduino, Raspberry Pi
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterRock49&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterRock49&layout=compact&theme=radical)
