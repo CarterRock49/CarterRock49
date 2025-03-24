@@ -41,8 +41,8 @@
 - Custom UI with dynamic keyboard layout
 - Persistent macro state management
 - Real-time macro toggling and configuration
-
 **Technologies:** C#, .NET Windows Forms, Newtonsoft.Json
+- Link: https://github.com/CarterRock49/C_Sharp_Macro_Project
 
 [View Project on GitHub](https://github.com/yourusername/MacroMachine)
 
